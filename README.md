@@ -2,14 +2,14 @@
 
 ## About Me
 
-I'm a passionate Data Analyst and Data Engineer with over two years of experience in the field. I thrive on leveraging data to uncover insights and drive informed decision-making. My journey has led me to explore and work with a variety of tools and technologies, particularly focusing on the Azure ecosystem.
+I'm a results driven Data Analyst and Data Engineer with over three years of experience in the field. I thrive on leveraging data to uncover insights and drive informed decision-making. My journey has led me to explore and work with a variety of tools and technologies, particularly focusing on the Azure ecosystem.
 
 ## What I Do
 
 - 📊 As a Data Analyst, I delve into datasets to extract valuable insights and trends. I also build solutions that enable end users with the right information to do basic self service analytics.
-- 🛠️ As a Data Engineer, I design and implement automated workflows and pipelines using Azure services like Azure Functions and Azure Synapse.
-- 🐍 I'm skilled in Python for data manipulation and scripting.
-- 💾 SQL is my go-to language for querying and managing databases.
+- 🛠️ As a Data Engineer, I design and implement automated workflows and pipelines using Azure services like Azure Functions, Azure Synapse and Microsoft Fabric.
+- 🐍 I enjoy utilizing Python for data manipulation, transformation and automations.
+- 💾 SQL still remains my go-to language for querying and managing databases.
 - 📈 I work with DAX for Power BI and Excel to create meaningful visualizations and reports.
 
 ## My Work
