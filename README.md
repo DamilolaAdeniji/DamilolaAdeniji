@@ -9,7 +9,7 @@ I'm a results driven Data Analyst and Data Engineer with over three years of exp
 - 📊 As a Data Analyst, I delve into datasets to extract valuable insights and trends. I also build solutions that enable end users with the right information to do basic self service analytics.
 - 🛠️ As a Data Engineer, I design and implement automated workflows and pipelines using Azure services like Azure Functions, Azure Synapse and Microsoft Fabric.
 - 🐍 I enjoy utilizing Python for data manipulation, transformation and automations.
-- 💾 SQL still remains my go-to language for querying and managing databases.
+- 💾 SQL remains my go-to language for interacting with databases.
 - 📈 I work with DAX for Power BI and Excel to create meaningful visualizations and reports.
 
 ## My Work
