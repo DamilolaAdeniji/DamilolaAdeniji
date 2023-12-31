@@ -14,10 +14,9 @@ I'm a results driven Data Analyst and Data Engineer with over three years of exp
 
 ## My Work
 
-Feel free to explore my repositories to find projects related to data analysis, pipeline automation, and more. I'm constantly looking to learn and share my knowledge, so feedback and collaboration are always welcome.
+Feel free to explore my repositories to find projects related to data analysis, pipeline orchestration, and more. I'm constantly looking to learn and share my knowledge, so feedback and collaboration are always welcome.
 
 ## Connect with Me
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/oluwadamilola-adeniji/) to stay updated on my latest projects and insights.
 
-Let's connect and explore the exciting world of data together!
