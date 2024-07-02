@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a results driven Data Analyst and Data Engineer with over three years of experience in the field. I thrive on leveraging data to uncover insights and drive informed decision-making. My journey has led me to explore and work with a variety of tools and technologies, particularly focusing on the Azure ecosystem.
+I'm a Data Analyst and Engineer with over four years of experience in the field. I thrive on leveraging data to uncover insights and drive informed decision-making. My journey has led me to explore and work with a variety of tools and technologies, particularly focusing on the Azure ecosystem.
 
 ## What I Do
 
